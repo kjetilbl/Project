@@ -8,38 +8,41 @@
 \BOOKMARK [1][-]{section.1.4}{Approach}{chapter.1}% 8
 \BOOKMARK [1][-]{section.1.5}{Structure of the Report}{chapter.1}% 9
 \BOOKMARK [0][-]{chapter.2}{Existing Solutions}{}% 10
-\BOOKMARK [1][-]{section.2.1}{CyberSea HIL Simulator}{chapter.2}% 11
-\BOOKMARK [0][-]{chapter.3}{Implementation and Simulation of Sensors}{}% 12
-\BOOKMARK [1][-]{section.3.1}{Sensors Implemented on Odin}{chapter.3}% 13
-\BOOKMARK [2][-]{subsection.3.1.1}{Radar}{section.3.1}% 14
-\BOOKMARK [2][-]{subsection.3.1.2}{Lidar}{section.3.1}% 15
-\BOOKMARK [1][-]{section.3.2}{Generating Virtual Sensor Data}{chapter.3}% 16
-\BOOKMARK [2][-]{subsection.3.2.1}{Generating Data from Virtual Environment}{section.3.2}% 17
-\BOOKMARK [2][-]{subsection.3.2.2}{Raw vs Preprocessed Sensor Data}{section.3.2}% 18
-\BOOKMARK [0][-]{chapter.4}{Simulator - HIL interface}{}% 19
-\BOOKMARK [1][-]{section.4.1}{Physical Interface}{chapter.4}% 20
-\BOOKMARK [1][-]{section.4.2}{Software Interface}{chapter.4}% 21
-\BOOKMARK [2][-]{subsection.4.2.1}{Necessary Exchange of Information}{section.4.2}% 22
-\BOOKMARK [2][-]{subsection.4.2.2}{Message Protocol}{section.4.2}% 23
-\BOOKMARK [0][-]{chapter.5}{Logging and Visualization of Simulation}{}% 24
-\BOOKMARK [1][-]{section.5.1}{Logging}{chapter.5}% 25
-\BOOKMARK [1][-]{section.5.2}{Visualization}{chapter.5}% 26
-\BOOKMARK [1][-]{section.5.3}{C++ example?}{chapter.5}% 27
-\BOOKMARK [0][-]{chapter.6}{Use of Model in Autonomous Testing Environment \(ROS\)}{}% 28
-\BOOKMARK [0][-]{chapter.7}{Other Agents and their Behavior as Part of Simulated Environment}{}% 29
-\BOOKMARK [1][-]{section.7.1}{Possible Agents}{chapter.7}% 30
-\BOOKMARK [2][-]{subsection.7.1.1}{Ships}{section.7.1}% 31
-\BOOKMARK [2][-]{subsection.7.1.2}{Small Boats}{section.7.1}% 32
-\BOOKMARK [1][-]{section.7.2}{Pros and Cons of Agents Behavior}{chapter.7}% 33
-\BOOKMARK [2][-]{subsection.7.2.1}{Reactivity?}{section.7.2}% 34
-\BOOKMARK [2][-]{subsection.7.2.2}{Predictability}{section.7.2}% 35
-\BOOKMARK [2][-]{subsection.7.2.3}{Possibility of Repeating Scenario}{section.7.2}% 36
-\BOOKMARK [0][-]{chapter.8}{Summary}{}% 37
-\BOOKMARK [1][-]{section.8.1}{Summary and Conclusions}{chapter.8}% 38
-\BOOKMARK [1][-]{section.8.2}{Discussion}{chapter.8}% 39
-\BOOKMARK [1][-]{section.8.3}{Recommendations for Further Work}{chapter.8}% 40
-\BOOKMARK [0][-]{appendix.A}{Acronyms}{}% 41
-\BOOKMARK [0][-]{appendix.B}{Additional Information}{}% 42
-\BOOKMARK [1][-]{section.B.1}{Introduction}{appendix.B}% 43
-\BOOKMARK [2][-]{subsection.B.1.1}{More Details}{section.B.1}% 44
-\BOOKMARK [0][-]{subsection.B.1.1}{Bibliography}{}% 45
+\BOOKMARK [1][-]{section.2.1}{CyberSea Simulator}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.2}{MSS \(Fossen\)}{chapter.2}% 12
+\BOOKMARK [1][-]{section.2.3}{MCSim \(Marine Cybernetics\)}{chapter.2}% 13
+\BOOKMARK [1][-]{section.2.4}{Gazebo \(ROS\)}{chapter.2}% 14
+\BOOKMARK [0][-]{chapter.3}{Implementation and Simulation of Sensors}{}% 15
+\BOOKMARK [1][-]{section.3.1}{Sensors Implemented on Odin}{chapter.3}% 16
+\BOOKMARK [2][-]{subsection.3.1.1}{Radar}{section.3.1}% 17
+\BOOKMARK [2][-]{subsection.3.1.2}{Lidar}{section.3.1}% 18
+\BOOKMARK [1][-]{section.3.2}{Generating Virtual Sensor Data}{chapter.3}% 19
+\BOOKMARK [2][-]{subsection.3.2.1}{Generating Data from Virtual Environment}{section.3.2}% 20
+\BOOKMARK [2][-]{subsection.3.2.2}{Raw vs Preprocessed Sensor Data}{section.3.2}% 21
+\BOOKMARK [0][-]{chapter.4}{Simulator - HIL interface}{}% 22
+\BOOKMARK [1][-]{section.4.1}{Physical Interface}{chapter.4}% 23
+\BOOKMARK [1][-]{section.4.2}{Software Interface}{chapter.4}% 24
+\BOOKMARK [2][-]{subsection.4.2.1}{Necessary Exchange of Information}{section.4.2}% 25
+\BOOKMARK [2][-]{subsection.4.2.2}{Message Protocol}{section.4.2}% 26
+\BOOKMARK [0][-]{chapter.5}{Logging and Visualization of Simulation}{}% 27
+\BOOKMARK [1][-]{section.5.1}{Logging}{chapter.5}% 28
+\BOOKMARK [1][-]{section.5.2}{Visualization}{chapter.5}% 29
+\BOOKMARK [1][-]{section.5.3}{C++ example?}{chapter.5}% 30
+\BOOKMARK [0][-]{chapter.6}{Use of Model in Autonomous Testing Environment \(ROS\)}{}% 31
+\BOOKMARK [0][-]{chapter.7}{Other Agents and their Behavior as Part of Simulated Environment}{}% 32
+\BOOKMARK [1][-]{section.7.1}{Possible Agents}{chapter.7}% 33
+\BOOKMARK [2][-]{subsection.7.1.1}{Ships}{section.7.1}% 34
+\BOOKMARK [2][-]{subsection.7.1.2}{Small Boats}{section.7.1}% 35
+\BOOKMARK [1][-]{section.7.2}{Pros and Cons of Agents Behavior}{chapter.7}% 36
+\BOOKMARK [2][-]{subsection.7.2.1}{Reactivity?}{section.7.2}% 37
+\BOOKMARK [2][-]{subsection.7.2.2}{Predictability}{section.7.2}% 38
+\BOOKMARK [2][-]{subsection.7.2.3}{Possibility of Repeating Scenario}{section.7.2}% 39
+\BOOKMARK [0][-]{chapter.8}{Summary}{}% 40
+\BOOKMARK [1][-]{section.8.1}{Summary and Conclusions}{chapter.8}% 41
+\BOOKMARK [1][-]{section.8.2}{Discussion}{chapter.8}% 42
+\BOOKMARK [1][-]{section.8.3}{Recommendations for Further Work}{chapter.8}% 43
+\BOOKMARK [0][-]{appendix.A}{Acronyms}{}% 44
+\BOOKMARK [0][-]{appendix.B}{Additional Information}{}% 45
+\BOOKMARK [1][-]{section.B.1}{Introduction}{appendix.B}% 46
+\BOOKMARK [2][-]{subsection.B.1.1}{More Details}{section.B.1}% 47
+\BOOKMARK [0][-]{subsection.B.1.1}{Bibliography}{}% 48

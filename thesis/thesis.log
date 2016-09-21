@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.27)  20 SEP 2016 13:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.27)  20 SEP 2016 17:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -940,7 +940,7 @@ LaTeX Info: Redefining \nameref on input line 17.
 \openout2 = `front.aux'.
 
  (./front.tex
-<fig/rams.pdf, id=179, 97.80238pt x 44.8345pt>
+<fig/rams.pdf, id=183, 97.80238pt x 44.8345pt>
 File: fig/rams.pdf Graphic file (type pdf)
  <use fig/rams.pdf>
 Package pdftex.def Info: fig/rams.pdf used on input line 8.
@@ -1031,25 +1031,30 @@ LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <14.4> not available
 
  (./chapter02.tex
 Chapter 2.
-) [4
+LaTeX Font Info:    Try loading font information for TS1+futs on input line 13.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/fourier/ts1futs.fd
+File: ts1futs.fd 2004/03/26 Fontinst v1.926 font definitions for TS1/futs.
+)) [4
 
 
 
-]
+] [5]
 \openout2 = `chapter03.aux'.
 
- (./chapter03.tex
+
+(./chapter03.tex
 Chapter 3.
-) [5
+) [6
 
 
 
-] [6]
+] [7]
 \openout2 = `chapter04.aux'.
 
  (./chapter04.tex
 Chapter 4.
-) [7
+) [8
 
 
 
@@ -1058,7 +1063,7 @@ Chapter 4.
 
  (./chapter05.tex
 Chapter 5.
-) [8
+) [9
 
 
 
@@ -1067,7 +1072,7 @@ Chapter 5.
 
  (./chapter06.tex
 Chapter 6.
-) [9
+) [10
 
 
 
@@ -1076,7 +1081,7 @@ Chapter 6.
 
  (./chapter07.tex
 Chapter 7.
-) [10
+) [11
 
 
 
@@ -1085,7 +1090,7 @@ Chapter 7.
 
  (./chapter0n.tex
 Chapter 8.
-) [11
+) [12
 
 
 
@@ -1094,7 +1099,7 @@ Chapter 8.
 
  (./acronyms.tex
 Appendix A.
-) [12
+) [13
 
 
 
@@ -1103,13 +1108,13 @@ Appendix A.
 
  (./appendix-b.tex
 Appendix B.
-) [13
+) [14
 
 
 
 ] (./thesis.bbl)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 62.
- [14
+ [15
 
 
 ]
@@ -1127,27 +1132,26 @@ Package rerunfilecheck Warning: File `thesis.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `thesis.out':
-(rerunfilecheck)             Before: C5C1DAD42799BE74C6D849F3890E7BA6;2873
-(rerunfilecheck)             After:  813E1868ADA661E28FB9FE6C7F5EBD71;2942.
+(rerunfilecheck)             Before: B34859C7A1AEC4D49041E611DE3DF249;2938
+(rerunfilecheck)             After:  5DC03ADADD58CDE4E1992BFACF79BDC1;3135.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 62.
  ) 
 Here is how much of TeX's memory you used:
- 8363 strings out of 493089
- 116435 string characters out of 6134842
- 208562 words of memory out of 5000000
- 11517 multiletter control sequences out of 15000+600000
- 68074 words of font info for 63 fonts, out of 8000000 for 9000
+ 8380 strings out of 493089
+ 116690 string characters out of 6134842
+ 208489 words of memory out of 5000000
+ 11530 multiletter control sequences out of 15000+600000
+ 63977 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,5n,34p,254b,406s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,6n,34p,351b,406s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2015/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/
 2015/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2015/te
-xmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2015/texmf-dis
-t/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on thesis.pdf (19 pages, 86272 bytes).
+xmf-dist/fonts/type1/adobe/utopia/putr8a.pfb>
+Output written on thesis.pdf (20 pages, 74600 bytes).
 PDF statistics:
- 369 PDF objects out of 1000 (max. 8388607)
- 338 compressed objects within 4 object streams
- 79 named destinations out of 1000 (max. 500000)
- 358 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 376 PDF objects out of 1000 (max. 8388607)
+ 345 compressed objects within 4 object streams
+ 81 named destinations out of 1000 (max. 500000)
+ 366 words of extra memory for PDF output out of 10000 (max. 10000000)
 

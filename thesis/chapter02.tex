@@ -3,23 +3,41 @@
 % !TEX spellcheck = en-US
 %%=========================================
 \chapter{Existing Solutions}
-
+This chapter goes through some of the existing tools used for HIL simulations of marine systems. The key properties of each tool are listed, and an evaluation is made about the possibilities of using the tools in the implementation of our own simulation environment. 
 
 \section{CyberSea Simulator}
-The CyberSea Simulator developed by Marine Cybernetics is a simulator for HIL testing of Dynamic Positioning (DP) systems.
+The CyberSea Simulator developed by Marine Cybernetics is an advanced simulator for HIL testing of Dynamic Positioning (DP) systems. It is \emph{probably} super expensive (how can i investigate this?) and mainly focused on motion dynamics of big vessels at low speed (less than 3kts).
 
-Key points from [\cite{HILtestingDP}]:
+Key properties of the CyberSea Simulator \footnote{\cite{HILtestingDP}}:
 \begin{itemize}
-\item Capabilities for data logging and real-time presentation of results
-\item Emphasis on vessel dynamics and accurate simulation of vessel motion at low speed ( < 3kts, wave, wind and current loads (of course, because of DP) in six degrees of freedom "using a nonlinear rigid-body model of the vessel".
-\item Several options for interface between HIL Simulator and Computer Control System ("Analog, digital, serial/NMEA protocol", normal network protocol or "dedicated test I/O built into the DP computer system").
-\item Generation of realistic signals from all the common sensors and position reference systems (such as "Gyro-compasses, VRUs, wind sensors, thruster feedback [...], power feedback from thrusters, switchboard and generator sets") used in modern DP technology "contaminated with typical noise levels".
+\item Capabilities for real-time presentation of results.
+\item Emphasis on vessel dynamics and accurate simulation of vessel motion during DP.
+\item Advanced simulation of wave, wind and current loads in six degrees of freedom.
+\item Several options for practical interfaces between simulator and computer control system, both analog and digital using for example NMEA protocol or normal network protocol.
+\item Generation of realistic signals from all the common sensors and position reference systems such as \textit{"Gyro-compasses, VRUs, wind sensors, thruster feedback [...], power feedback from thrusters, switchboard and generator sets"}\footnote{\cite{HILtestingDP}} used in modern DP technology. The signals can also be contaminated with noise levels typical for the sensors in use.
 \item Advanced generation of GNSS signals with possibility of simulating a broad specter of common failure modes.
 \end{itemize}
 
+The CyberSea Simulator, although powerful and highly customizable, is probably too expensive to use as a part of our simulation environment. It is also not certain to which extent the simulator can simulate other active agents such as ship traffic for testing of collision avoidance.
 
-\section{MSS (Fossen)}
+
+\section{Marine Systems Simulator (MSS)}
+The Marine Systems Simulator (MSS) is a free toolbox for MATLAB/Simulink developed by Thor I. Fossen and Tristan Perez at the Norwegian University of Science and Technology (NTNU). It is a merge of 3 previously existing toolboxes: Marine GNC Toolbox, Marine Cybernetics Simulator (MCSim) and DCMV. The toolbox contains possibilities for modeling of the dynamics of ships, underwater vehicles and floating structures under different wave, wind and current conditions.
+
+Key properties of MSS \footnote{\cite{MSSoverview}}:
+\begin{itemize}
+\item Good modularity in Simulink.
+\item Emphasis on vehicle dynamics and thereby well suited for developing good motion control of such vehicles.
+\item Can be set up to do HIL simulations.
+\item Possibility of 3D animation using Marine Visualization Toolbox.
+\end{itemize}
+
+The Marine Systems Simulator is free and well suited for simulation of marine vehicle dynamics. It is likely that this toolbox can be used as a part of our simulation environment to simulate Odins motions and possibly for 3D animations of such dynamics.
 
 \section{MCSim (Marine Cybernetics)}
+Now part of MSS, not really useful to research this?
 
 \section{Gazebo (ROS)}
+Looks interesting. Even has done some research on this...
+
+

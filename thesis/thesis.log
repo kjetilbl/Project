@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.27)  20 SEP 2016 17:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.27)  22 SEP 2016 20:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -940,7 +940,7 @@ LaTeX Info: Redefining \nameref on input line 17.
 \openout2 = `front.aux'.
 
  (./front.tex
-<fig/rams.pdf, id=183, 97.80238pt x 44.8345pt>
+<fig/rams.pdf, id=195, 97.80238pt x 44.8345pt>
 File: fig/rams.pdf Graphic file (type pdf)
  <use fig/rams.pdf>
 Package pdftex.def Info: fig/rams.pdf used on input line 8.
@@ -1016,45 +1016,57 @@ been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.29 \include{chapter01}
-                         [1]
+                         [1] [2]
 \openout2 = `chapter01.aux'.
 
  (./chapter01.tex
 Chapter 1.
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/futs/b/n' tried instead on input line 12.
-[2
+[3
 
 
-]) [3]
+]) [4]
 \openout2 = `chapter02.aux'.
 
  (./chapter02.tex
 Chapter 2.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 9.19998pt on input line 11.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 6.99199pt on input line 11.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 5.51999pt on input line 11.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 9.19998pt on input line 11.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 6.99199pt on input line 11.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 5.51999pt on input line 11.
 LaTeX Font Info:    Try loading font information for TS1+futs on input line 13.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/fourier/ts1futs.fd
 File: ts1futs.fd 2004/03/26 Fontinst v1.926 font definitions for TS1/futs.
-)) [4
+) [5
 
 
 
-] [5]
+] [6])
+[7]
 \openout2 = `chapter03.aux'.
 
-
-(./chapter03.tex
+ (./chapter03.tex
 Chapter 3.
-) [6
+) [8
 
 
 
-] [7]
+] [9]
 \openout2 = `chapter04.aux'.
 
  (./chapter04.tex
 Chapter 4.
-) [8
+) [10
 
 
 
@@ -1063,7 +1075,7 @@ Chapter 4.
 
  (./chapter05.tex
 Chapter 5.
-) [9
+) [11
 
 
 
@@ -1072,7 +1084,7 @@ Chapter 5.
 
  (./chapter06.tex
 Chapter 6.
-) [10
+) [12
 
 
 
@@ -1081,7 +1093,7 @@ Chapter 6.
 
  (./chapter07.tex
 Chapter 7.
-) [11
+) [13
 
 
 
@@ -1090,7 +1102,7 @@ Chapter 7.
 
  (./chapter0n.tex
 Chapter 8.
-) [12
+) [14
 
 
 
@@ -1099,7 +1111,7 @@ Chapter 8.
 
  (./acronyms.tex
 Appendix A.
-) [13
+) [15
 
 
 
@@ -1108,13 +1120,13 @@ Appendix A.
 
  (./appendix-b.tex
 Appendix B.
-) [14
+) [16
 
 
 
 ] (./thesis.bbl)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 62.
- [15
+ [17
 
 
 ]
@@ -1125,33 +1137,27 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 62.
 (./chapter07.aux) (./chapter0n.aux) (./acronyms.aux) (./appendix-b.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 62.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 62.
-
-
-Package rerunfilecheck Warning: File `thesis.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `thesis.out':
-(rerunfilecheck)             Before: B34859C7A1AEC4D49041E611DE3DF249;2938
-(rerunfilecheck)             After:  5DC03ADADD58CDE4E1992BFACF79BDC1;3135.
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: 08DA67FEB511FE4069C6B2AEC1E12AE4;3153.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 62.
  ) 
 Here is how much of TeX's memory you used:
- 8380 strings out of 493089
- 116690 string characters out of 6134842
- 208489 words of memory out of 5000000
- 11530 multiletter control sequences out of 15000+600000
- 63977 words of font info for 62 fonts, out of 8000000 for 9000
+ 8420 strings out of 493089
+ 117214 string characters out of 6134842
+ 209523 words of memory out of 5000000
+ 11555 multiletter control sequences out of 15000+600000
+ 91410 words of font info for 89 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,6n,34p,351b,406s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,8n,34p,499b,406s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2015/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/
 2015/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2015/te
-xmf-dist/fonts/type1/adobe/utopia/putr8a.pfb>
-Output written on thesis.pdf (20 pages, 74600 bytes).
+xmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2015/texmf-dis
+t/fonts/type1/adobe/utopia/putri8a.pfb>
+Output written on thesis.pdf (22 pages, 92771 bytes).
 PDF statistics:
- 376 PDF objects out of 1000 (max. 8388607)
- 345 compressed objects within 4 object streams
- 81 named destinations out of 1000 (max. 500000)
- 366 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 412 PDF objects out of 1000 (max. 8388607)
+ 378 compressed objects within 4 object streams
+ 87 named destinations out of 1000 (max. 500000)
+ 390 words of extra memory for PDF output out of 10000 (max. 10000000)
 

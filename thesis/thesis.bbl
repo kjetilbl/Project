@@ -6,4 +6,11 @@ Johansen, T.~A., Fossen, T.~I., and Vik, B. (2005).
 \newblock Technical report, Marine Cybernetics, Norwegian University of Science
   and Technology, Trondheim, Norway.
 
+\bibitem[\protect\astroncite{Perez et~al.}{2006}]{MSSoverview}
+Perez, T., Smogeli, {\O}., Fossen, T., and S{\o}rensen, A. (2006).
+\newblock An overview of the marine systems simulator (mss): A simulink toolbox
+  for marine control systems.
+\newblock Technical report, Norwegian University of Science and Technology
+  (NTNU).
+
 \end{thebibliography}

@@ -1,7 +1,6 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.27)  24 SEP 2016 14:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.27)  19 OCT 2016 19:47
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **thesis.tex
 (./thesis.tex
@@ -970,11 +969,11 @@ Package gensymb Info: Using \textmu for \micro on input line 21.
 \openout2 = `front.aux'.
 
  (./front.tex
-<fig/rams.pdf, id=199, 97.80238pt x 44.8345pt>
-File: fig/rams.pdf Graphic file (type pdf)
- <use fig/rams.pdf>
-Package pdftex.def Info: fig/rams.pdf used on input line 8.
-(pdftex.def)             Requested size: 107.58295pt x 49.31808pt.
+<fig/NTNU.pdf, id=212, 241.90375pt x 53.19875pt>
+File: fig/NTNU.pdf Graphic file (type pdf)
+ <use fig/NTNU.pdf>
+Package pdftex.def Info: fig/NTNU.pdf used on input line 8.
+(pdftex.def)             Requested size: 266.09494pt x 58.51878pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 8--10
 
@@ -983,8 +982,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--10
 ) [1
 
 
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./fig/r
-ams.pdf>]
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./fig/N
+TNU.pdf>]
 \openout2 = `preface.aux'.
 
  (./preface.tex
@@ -1066,50 +1065,78 @@ LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <14.4> not available
 
  (./chapter02.tex
 Chapter 2.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 11.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.99199pt on input line 11.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 11.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 11.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.99199pt on input line 11.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 11.
 [4
 
 
 
-] [5]) [6]
+] [5]
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 9.19998pt on input line 44.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 6.99199pt on input line 44.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 5.51999pt on input line 44.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 9.19998pt on input line 44.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 6.99199pt on input line 44.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 5.51999pt on input line 44.
+) [6]
 \openout2 = `chapter03.aux'.
 
  (./chapter03.tex
 Chapter 3.
-[7
+<fig/SystemarkitekturOdin.pdf, id=354, 845.0471pt x 597.50829pt>
+File: fig/SystemarkitekturOdin.pdf Graphic file (type pdf)
+
+<use fig/SystemarkitekturOdin.pdf>
+Package pdftex.def Info: fig/SystemarkitekturOdin.pdf used on input line 14.
+(pdftex.def)             Requested size: 472.03123pt x 333.76357pt.
+ [7
 
 
 
-] <fig/VelodyneHDL32Ecase.png, id=341, 357.335pt x 615.29875pt>
-File: fig/VelodyneHDL32Ecase.png Graphic file (type png)
+]
+<fig/Seapath130.jpg, id=363, 702.625pt x 154.5775pt>
+File: fig/Seapath130.jpg Graphic file (type jpg)
+ <use fig/Seapath130.jpg>
+Package pdftex.def Info: fig/Seapath130.jpg used on input line 25.
+(pdftex.def)             Requested size: 330.42041pt x 72.69388pt.
 
-<use fig/VelodyneHDL32Ecase.png>
-Package pdftex.def Info: fig/VelodyneHDL32Ecase.png used on input line 19.
-(pdftex.def)             Requested size: 127.44885pt x 219.45125pt.
- [8pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1
-}) has been already used, duplicate ignored
+[8pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1}
+) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.38 \subsection
+l.30 
+      <./fig/SystemarkitekturOdin.pdf, page is rotated 90 degrees>] [9pdfTeX wa
+rning (ext4): destination with the same identifier (name{figure.3.2}) has been 
+already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.44 \newpage
+              <./fig/Seapath130.jpg>]
+<fig/VelodyneHDL32Ecase.png, id=531, 357.335pt x 615.29875pt>
+File: fig/VelodyneHDL32Ecase.png Graphic file (type png)
+
+<use fig/VelodyneHDL32Ecase.png>
+Package pdftex.def Info: fig/VelodyneHDL32Ecase.png used on input line 49.
+(pdftex.def)             Requested size: 127.44885pt x 219.45125pt.
+ [10pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.68 \subsection
                 {Simulating Data from LiDAR} <./fig/VelodyneHDL32Ecase.png>])
-[9]
+[11]
 \openout2 = `chapter04.aux'.
 
  (./chapter04.tex
 Chapter 4.
-) [10
+) [12
 
 
 
@@ -1118,7 +1145,7 @@ Chapter 4.
 
  (./chapter05.tex
 Chapter 5.
-) [11
+) [13
 
 
 
@@ -1127,7 +1154,7 @@ Chapter 5.
 
  (./chapter06.tex
 Chapter 6.
-) [12
+) [14
 
 
 
@@ -1136,7 +1163,7 @@ Chapter 6.
 
  (./chapter07.tex
 Chapter 7.
-) [13
+) [15
 
 
 
@@ -1145,7 +1172,7 @@ Chapter 7.
 
  (./chapter0n.tex
 Chapter 8.
-) [14
+) [16
 
 
 
@@ -1154,7 +1181,7 @@ Chapter 8.
 
  (./acronyms.tex
 Appendix A.
-) [15
+) [17
 
 
 
@@ -1163,13 +1190,13 @@ Appendix A.
 
  (./appendix-b.tex
 Appendix B.
-) [16
+) [18
 
 
 
 ] (./thesis.bbl)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 66.
- [17
+ [19
 
 
 ]
@@ -1181,27 +1208,27 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 66.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 66.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 734429F265946B66F6AC031589ED99D8;3256.
+(rerunfilecheck)             Checksum: 002DBC8C0057CB40BAD96DEFD9EC9DDE;3529.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 66.
  ) 
 Here is how much of TeX's memory you used:
- 8604 strings out of 493089
- 119723 string characters out of 6134842
- 213700 words of memory out of 5000000
- 11720 multiletter control sequences out of 15000+600000
+ 8635 strings out of 493089
+ 120317 string characters out of 6134842
+ 214190 words of memory out of 5000000
+ 11741 multiletter control sequences out of 15000+600000
  93437 words of font info for 96 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,8n,34p,1004b,406s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,8n,34p,961b,406s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2015/texmf-dist/fonts/type1/public/fourier/fourier-ms.pfb></usr/local/te
 xlive/2015/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/2
 015/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2015/tex
 mf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2015/texmf-dist
 /fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on thesis.pdf (23 pages, 304830 bytes).
+Output written on thesis.pdf (25 pages, 397972 bytes).
 PDF statistics:
- 433 PDF objects out of 1000 (max. 8388607)
- 395 compressed objects within 4 object streams
- 91 named destinations out of 1000 (max. 500000)
- 403 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 624 PDF objects out of 1000 (max. 8388607)
+ 456 compressed objects within 5 object streams
+ 98 named destinations out of 1000 (max. 500000)
+ 437 words of extra memory for PDF output out of 10000 (max. 10000000)
 

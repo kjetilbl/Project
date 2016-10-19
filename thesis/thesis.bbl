@@ -1,16 +1,25 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\astroncite{Bole et~al.}{2005}]{ARPAmanual}
+Bole, A., Dineley, B., and Wall, A. (2005).
+\newblock {\em Radar and ARPA Manual}.
+\newblock Elsevier Butterworth-Heinemann, 2 edition.
+
 \bibitem[\protect\astroncite{Johansen et~al.}{2005}]{HILtestingDP}
 Johansen, T.~A., Fossen, T.~I., and Vik, B. (2005).
 \newblock Hardware-in-the-loop testing of dp systems.
 \newblock Technical report, Marine Cybernetics, Norwegian University of Science
   and Technology, Trondheim, Norway.
 
+\bibitem[\protect\astroncite{{Kongsberg Seatex}}{2016}]{SeapathManual}
+{Kongsberg Seatex} (2016).
+\newblock {\em Seapath 130 Datasheet}.
+
 \bibitem[\protect\astroncite{Perez et~al.}{2006}]{MSSoverview}
 Perez, T., Smogeli, {\O}., Fossen, T., and S{\o}rensen, A. (2006).
 \newblock An overview of the marine systems simulator (mss): A simulink toolbox
   for marine control systems.
 \newblock Technical report, Norwegian University of Science and Technology
-  (NTNU).
+  (NTNU), Trondheim, Norway.
 
 \end{thebibliography}

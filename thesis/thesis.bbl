@@ -22,4 +22,14 @@ Perez, T., Smogeli, {\O}., Fossen, T., and S{\o}rensen, A. (2006).
 \newblock Technical report, Norwegian University of Science and Technology
   (NTNU), Trondheim, Norway.
 
+\bibitem[\protect\astroncite{SIMRAD}{2012}]{simradBrochure}
+SIMRAD (2012).
+\newblock {\em Simrad 4G Brochure}.
+\newblock SIMRAD.
+
+\bibitem[\protect\astroncite{SiRF}{2005}]{NMEAmanual}
+SiRF (2005).
+\newblock {\em NMEA Reference Manual}.
+\newblock SiRF Technologies, Inc.
+
 \end{thebibliography}

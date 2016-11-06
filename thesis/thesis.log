@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.27)  19 OCT 2016 19:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.27)  6 NOV 2016 19:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -809,59 +809,62 @@ Package: wrapfig 2003/01/31  v 3.6
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/was/gensymb.sty
 Package: gensymb 2003/07/02 v1.0 (WaS)
-) (./thesis.aux
-(./front.aux) (./preface.aux) (./acknowledgment.aux) (./summary.aux)
-(./chapter01.aux) (./chapter02.aux) (./chapter03.aux) (./chapter04.aux)
-(./chapter05.aux) (./chapter06.aux) (./chapter07.aux) (./chapter0n.aux)
-(./acronyms.aux) (./appendix-b.aux))
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/courier.sty
+Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
+) (./thesis.aux (./front.aux) (./preface.aux) (./summary.aux) (./chapter01.aux)
+
+(./chapter02.aux) (./chapter03.aux) (./chapter04.aux) (./chapter05.aux)
+(./chapter06.aux) (./chapter07.aux) (./chapter0n.aux) (./acronyms.aux)
+(./appendix-b.aux))
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 21.
-LaTeX Font Info:    Try loading font information for FML+futm on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 22.
+LaTeX Font Info:    Try loading font information for FML+futm on input line 22.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/fourier/fmlfutm.fd
 File: fmlfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futm.
 )
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 21.
-LaTeX Font Info:    Try loading font information for FMS+futm on input line 21.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 22.
+LaTeX Font Info:    Try loading font information for FMS+futm on input line 22.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/fourier/fmsfutm.fd
 File: fmsfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FMS/futm.
 )
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 21.
-LaTeX Font Info:    Try loading font information for FMX+futm on input line 21.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 22.
+LaTeX Font Info:    Try loading font information for FMX+futm on input line 22.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/fourier/fmxfutm.fd
 File: fmxfutm.fd futm-extension
 )
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 21.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 22.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Try loading font information for T1+futs on input line 21.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Try loading font information for T1+futs on input line 22.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/fourier/t1futs.fd
 File: t1futs.fd 2004/03/02 Fontinst v1.926 font definitions for T1/futs.
@@ -937,7 +940,7 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 142.
 )
-Package hyperref Info: Link coloring ON on input line 21.
+Package hyperref Info: Link coloring ON on input line 22.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -947,9 +950,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count128
 )
-LaTeX Info: Redefining \ref on input line 21.
-LaTeX Info: Redefining \pageref on input line 21.
-LaTeX Info: Redefining \nameref on input line 21.
+LaTeX Info: Redefining \ref on input line 22.
+LaTeX Info: Redefining \pageref on input line 22.
+LaTeX Info: Redefining \nameref on input line 22.
 
 (./thesis.out) (./thesis.out)
 \@outlinefile=\write3
@@ -957,19 +960,19 @@ LaTeX Info: Redefining \nameref on input line 21.
 
 \symgns@font=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/futs/m/n --> TS1/futs/bx/n on input line 21.
-Package gensymb Info: Math companion symbols declared on input line 21.
-LaTeX Info: Redefining \degree on input line 21.
-LaTeX Info: Redefining \celsius on input line 21.
+(Font)                  TS1/futs/m/n --> TS1/futs/bx/n on input line 22.
+Package gensymb Info: Math companion symbols declared on input line 22.
+LaTeX Info: Redefining \degree on input line 22.
+LaTeX Info: Redefining \celsius on input line 22.
 Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
-erthousand on input line 21.
-LaTeX Info: Redefining \ohm on input line 21.
-Package gensymb Info: Using \textohm for \ohm on input line 21.
-Package gensymb Info: Using \textmu for \micro on input line 21.
+erthousand on input line 22.
+LaTeX Info: Redefining \ohm on input line 22.
+Package gensymb Info: Using \textohm for \ohm on input line 22.
+Package gensymb Info: Using \textmu for \micro on input line 22.
 \openout2 = `front.aux'.
 
  (./front.tex
-<fig/NTNU.pdf, id=212, 241.90375pt x 53.19875pt>
+<fig/NTNU.pdf, id=204, 241.90375pt x 53.19875pt>
 File: fig/NTNU.pdf Graphic file (type pdf)
  <use fig/NTNU.pdf>
 Package pdftex.def Info: fig/NTNU.pdf used on input line 8.
@@ -998,15 +1001,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
 
 ]
-\openout2 = `acknowledgment.aux'.
-
- (./acknowledgment.tex) [2
-
-
-]
 \openout2 = `summary.aux'.
 
- (./summary.tex) [3
+ (./summary.tex) [2
 
 
 ]
@@ -1037,11 +1034,11 @@ LaTeX Font Info:    Try loading font information for TS1+futs on input line 1.
 File: ts1futs.fd 2004/03/26 Fontinst v1.926 font definitions for TS1/futs.
 )
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <12> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 4.
- [4
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 3.
+ [3
 
 
-] [5])
+] [4])
 \tf@toc=\write4
 \openout4 = `thesis.toc'.
 
@@ -1087,7 +1084,7 @@ LaTeX Font Info:    Font shape `U/futm/m/n' will be
 
  (./chapter03.tex
 Chapter 3.
-<fig/SystemarkitekturOdin.pdf, id=354, 845.0471pt x 597.50829pt>
+<fig/SystemarkitekturOdin.pdf, id=340, 845.0471pt x 597.50829pt>
 File: fig/SystemarkitekturOdin.pdf Graphic file (type pdf)
 
 <use fig/SystemarkitekturOdin.pdf>
@@ -1098,7 +1095,7 @@ Package pdftex.def Info: fig/SystemarkitekturOdin.pdf used on input line 14.
 
 
 ]
-<fig/Seapath130.jpg, id=363, 702.625pt x 154.5775pt>
+<fig/Seapath130.jpg, id=350, 702.625pt x 154.5775pt>
 File: fig/Seapath130.jpg Graphic file (type jpg)
  <use fig/Seapath130.jpg>
 Package pdftex.def Info: fig/Seapath130.jpg used on input line 25.
@@ -1110,42 +1107,87 @@ Package pdftex.def Info: fig/Seapath130.jpg used on input line 25.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.30 
-      <./fig/SystemarkitekturOdin.pdf, page is rotated 90 degrees>] [9pdfTeX wa
-rning (ext4): destination with the same identifier (name{figure.3.2}) has been 
-already used, duplicate ignored
+      <./fig/SystemarkitekturOdin.pdf, page is rotated 90 degrees>]
+<fig/navico4G.jpg, id=512, 192.72pt x 136.8312pt>
+File: fig/navico4G.jpg Graphic file (type jpg)
+ <use fig/navico4G.jpg>
+Package pdftex.def Info: fig/navico4G.jpg used on input line 35.
+(pdftex.def)             Requested size: 127.44885pt x 90.48842pt.
+
+Underfull \hbox (badness 1348) in paragraph at lines 37--37
+[]\T1/futs/m/n/12 Figure 3.3: []\T1/futs/m/it/12 Simrad Broad-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+[9pdfTeX warning (ext4): destination with the same identifier (name{figure.3.2}
+) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.44 \newpage
-              <./fig/Seapath130.jpg>]
-<fig/VelodyneHDL32Ecase.png, id=531, 357.335pt x 615.29875pt>
+             pdfTeX warning (ext4): destination with the same identifier (name{
+figure.3.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.44 \newpage
+              <./fig/Seapath130.jpg> <./fig/navico4G.jpg>]
+<fig/VelodyneHDL32Ecase.png, id=527, 357.335pt x 615.29875pt>
 File: fig/VelodyneHDL32Ecase.png Graphic file (type png)
 
 <use fig/VelodyneHDL32Ecase.png>
 Package pdftex.def Info: fig/VelodyneHDL32Ecase.png used on input line 49.
 (pdftex.def)             Requested size: 127.44885pt x 219.45125pt.
- [10pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
-3}) has been already used, duplicate ignored
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 60.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+) [10pdfTeX warning (ext4): destination with the same identifier (name{figure.3
+.4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.68 \subsection
-                {Simulating Data from LiDAR} <./fig/VelodyneHDL32Ecase.png>])
+l.66 \subsection
+                {Simulating Data from GPS} <./fig/VelodyneHDL32Ecase.png>]
+LaTeX Font Info:    Font shape `T1/futs/bx/it' in size <12> not available
+(Font)              Font shape `T1/futs/b/it' tried instead on input line 68.
+
 [11]
+Underfull \hbox (badness 10000) in paragraph at lines 82--85
+
+ []
+
+) [12]
 \openout2 = `chapter04.aux'.
 
  (./chapter04.tex
 Chapter 4.
-) [12
+[13
 
 
 
-]
+] <fig/Interface.pdf, id=559, 597.23125pt x 776.9025pt>
+File: fig/Interface.pdf Graphic file (type pdf)
+
+<use fig/Interface.pdf>
+Package pdftex.def Info: fig/Interface.pdf used on input line 13.
+(pdftex.def)             Requested size: 283.22162pt x 368.42793pt.
+) [14pdfTeX warning (ext4): destination with the same identifier (name{figure.4
+.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.42 \include{chapter04}
+                         <./fig/Interface.pdf>]
 \openout2 = `chapter05.aux'.
 
  (./chapter05.tex
 Chapter 5.
-) [13
+) [15
 
 
 
@@ -1154,7 +1196,7 @@ Chapter 5.
 
  (./chapter06.tex
 Chapter 6.
-) [14
+) [16
 
 
 
@@ -1163,7 +1205,7 @@ Chapter 6.
 
  (./chapter07.tex
 Chapter 7.
-) [15
+) [17
 
 
 
@@ -1172,7 +1214,7 @@ Chapter 7.
 
  (./chapter0n.tex
 Chapter 8.
-) [16
+) [18
 
 
 
@@ -1181,7 +1223,7 @@ Chapter 8.
 
  (./acronyms.tex
 Appendix A.
-) [17
+) [19
 
 
 
@@ -1190,45 +1232,51 @@ Appendix A.
 
  (./appendix-b.tex
 Appendix B.
-) [18
+) [20
 
 
 
 ] (./thesis.bbl)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 66.
- [19
+ [21
 
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
  (./thesis.aux (./front.aux) (./preface.aux)
-(./acknowledgment.aux) (./summary.aux) (./chapter01.aux) (./chapter02.aux)
-(./chapter03.aux) (./chapter04.aux) (./chapter05.aux) (./chapter06.aux)
-(./chapter07.aux) (./chapter0n.aux) (./acronyms.aux) (./appendix-b.aux))
+(./summary.aux) (./chapter01.aux) (./chapter02.aux) (./chapter03.aux)
+(./chapter04.aux) (./chapter05.aux) (./chapter06.aux) (./chapter07.aux)
+(./chapter0n.aux) (./acronyms.aux) (./appendix-b.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 66.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 66.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 002DBC8C0057CB40BAD96DEFD9EC9DDE;3529.
+(rerunfilecheck)             Checksum: CD41EFA6DCF0A30F16082351208274FA;3405.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 66.
- ) 
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 68 ({)
+### bottom level 
 Here is how much of TeX's memory you used:
- 8635 strings out of 493089
- 120317 string characters out of 6134842
- 214190 words of memory out of 5000000
- 11741 multiletter control sequences out of 15000+600000
- 93437 words of font info for 96 fonts, out of 8000000 for 9000
+ 8689 strings out of 493089
+ 121242 string characters out of 6134842
+ 214034 words of memory out of 5000000
+ 11785 multiletter control sequences out of 15000+600000
+ 98668 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,8n,34p,961b,406s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2015/texmf-dist/fonts/type1/public/fourier/fourier-ms.pfb></usr/local/te
-xlive/2015/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/2
-015/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2015/tex
-mf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2015/texmf-dist
-/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on thesis.pdf (25 pages, 397972 bytes).
+ 36i,8n,34p,1127b,437s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc
+}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/fourier/fourier-ms.pfb>
+</usr/local/texlive/2015/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/l
+ocal/texlive/2015/texmf-dist/fonts/type1/adobe/utopia/putbi8a.pfb></usr/local/t
+exlive/2015/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/
+2015/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2015/te
+xmf-dist/fonts/type1/adobe/utopia/putri8a.pfb></usr/local/texlive/2015/texmf-di
+st/fonts/type1/urw/courier/ucrr8a.pfb>
+Output written on thesis.pdf (26 pages, 489398 bytes).
 PDF statistics:
- 624 PDF objects out of 1000 (max. 8388607)
- 456 compressed objects within 5 object streams
- 98 named destinations out of 1000 (max. 500000)
- 437 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 657 PDF objects out of 1000 (max. 8388607)
+ 480 compressed objects within 5 object streams
+ 101 named destinations out of 1000 (max. 500000)
+ 431 words of extra memory for PDF output out of 10000 (max. 10000000)
 

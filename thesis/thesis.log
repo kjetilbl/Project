@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.27)  6 NOV 2016 19:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.27)  6 NOV 2016 22:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1176,18 +1176,28 @@ File: fig/Interface.pdf Graphic file (type pdf)
 <use fig/Interface.pdf>
 Package pdftex.def Info: fig/Interface.pdf used on input line 13.
 (pdftex.def)             Requested size: 283.22162pt x 368.42793pt.
+
+Underfull \hbox (badness 1173) in paragraph at lines 20--21
+\T1/futs/m/n/12 ing en-vi-ron-ment around the USV
+ []
+
+
+Underfull \hbox (badness 2626) in paragraph at lines 20--21
+\T1/futs/m/n/12 sim-u-la-tion soft-ware in two main
+ []
+
 ) [14pdfTeX warning (ext4): destination with the same identifier (name{figure.4
 .1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.42 \include{chapter04}
-                         <./fig/Interface.pdf>]
+                         <./fig/Interface.pdf>] [15]
 \openout2 = `chapter05.aux'.
 
  (./chapter05.tex
 Chapter 5.
-) [15
+) [16
 
 
 
@@ -1196,7 +1206,7 @@ Chapter 5.
 
  (./chapter06.tex
 Chapter 6.
-) [16
+) [17
 
 
 
@@ -1205,7 +1215,7 @@ Chapter 6.
 
  (./chapter07.tex
 Chapter 7.
-) [17
+) [18
 
 
 
@@ -1214,7 +1224,7 @@ Chapter 7.
 
  (./chapter0n.tex
 Chapter 8.
-) [18
+) [19
 
 
 
@@ -1223,7 +1233,7 @@ Chapter 8.
 
  (./acronyms.tex
 Appendix A.
-) [19
+) [20
 
 
 
@@ -1232,13 +1242,13 @@ Appendix A.
 
  (./appendix-b.tex
 Appendix B.
-) [20
+) [21
 
 
 
 ] (./thesis.bbl)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 66.
- [21
+ [22
 
 
 ]
@@ -1250,7 +1260,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 66.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 66.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: CD41EFA6DCF0A30F16082351208274FA;3405.
+(rerunfilecheck)             Checksum: 330711F5BC6B509A431656AB677F4D26;3430.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 66.
  )
 (\end occurred inside a group at level 1)
@@ -1258,13 +1268,13 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 66.
 ### simple group (level 1) entered at line 68 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 8689 strings out of 493089
- 121242 string characters out of 6134842
- 214034 words of memory out of 5000000
- 11785 multiletter control sequences out of 15000+600000
+ 8694 strings out of 493089
+ 121307 string characters out of 6134842
+ 214207 words of memory out of 5000000
+ 11788 multiletter control sequences out of 15000+600000
  98668 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,8n,34p,1127b,437s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,8n,34p,1208b,437s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc
 }</usr/local/texlive/2015/texmf-dist/fonts/type1/public/fourier/fourier-ms.pfb>
 </usr/local/texlive/2015/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/l
@@ -1273,10 +1283,10 @@ exlive/2015/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/
 2015/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2015/te
 xmf-dist/fonts/type1/adobe/utopia/putri8a.pfb></usr/local/texlive/2015/texmf-di
 st/fonts/type1/urw/courier/ucrr8a.pfb>
-Output written on thesis.pdf (26 pages, 489398 bytes).
+Output written on thesis.pdf (27 pages, 491755 bytes).
 PDF statistics:
- 657 PDF objects out of 1000 (max. 8388607)
- 480 compressed objects within 5 object streams
- 101 named destinations out of 1000 (max. 500000)
+ 667 PDF objects out of 1000 (max. 8388607)
+ 489 compressed objects within 5 object streams
+ 103 named destinations out of 1000 (max. 500000)
  431 words of extra memory for PDF output out of 10000 (max. 10000000)
 

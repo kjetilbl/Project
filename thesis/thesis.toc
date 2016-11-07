@@ -24,27 +24,27 @@
 \contentsline {subsection}{\numberline {3.2.3}Simulating Data from LiDAR}{12}{subsection.3.2.3}
 \contentsline {chapter}{\numberline {4}Interface between Simulator and Control System}{13}{chapter.4}
 \contentsline {section}{\numberline {4.1}Overview of the Simulation Setup}{14}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Message Protocol}{14}{subsection.4.1.1}
-\contentsline {section}{\numberline {4.2}Physical Interface}{14}{section.4.2}
-\contentsline {chapter}{\numberline {5}Logging and Visualization of Simulation}{15}{chapter.5}
-\contentsline {section}{\numberline {5.1}Logging}{15}{section.5.1}
-\contentsline {section}{\numberline {5.2}Visualization}{15}{section.5.2}
-\contentsline {section}{\numberline {5.3}C++ example?}{15}{section.5.3}
-\contentsline {chapter}{\numberline {6}Use of Model in Autonomous Testing Environment (ROS)}{16}{chapter.6}
-\contentsline {chapter}{\numberline {7}Other Agents and their Behavior as Part of Simulated Environment}{17}{chapter.7}
-\contentsline {section}{\numberline {7.1}Possible Agents}{17}{section.7.1}
-\contentsline {subsection}{\numberline {7.1.1}Ships}{17}{subsection.7.1.1}
-\contentsline {subsection}{\numberline {7.1.2}Boats}{17}{subsection.7.1.2}
-\contentsline {section}{\numberline {7.2}Pros and Cons of Agents Behavior}{17}{section.7.2}
-\contentsline {subsection}{\numberline {7.2.1}Reactivity?}{17}{subsection.7.2.1}
-\contentsline {subsection}{\numberline {7.2.2}Predictability}{17}{subsection.7.2.2}
-\contentsline {subsection}{\numberline {7.2.3}Possibility of Repeating Scenario}{17}{subsection.7.2.3}
-\contentsline {chapter}{\numberline {8}Summary}{18}{chapter.8}
-\contentsline {section}{\numberline {8.1}Summary and Conclusions}{18}{section.8.1}
-\contentsline {section}{\numberline {8.2}Discussion}{18}{section.8.2}
-\contentsline {section}{\numberline {8.3}Recommendations for Further Work}{18}{section.8.3}
-\contentsline {chapter}{\numberline {A}Acronyms}{19}{appendix.A}
-\contentsline {chapter}{\numberline {B}Additional Information}{20}{appendix.B}
-\contentsline {section}{\numberline {B.1}Introduction}{20}{section.B.1}
-\contentsline {subsection}{\numberline {B.1.1}More Details}{20}{subsection.B.1.1}
-\contentsline {chapter}{Bibliography}{21}{subsection.B.1.1}
+\contentsline {subsection}{\numberline {4.1.1}Information Flow Between Software Modules}{15}{subsection.4.1.1}
+\contentsline {section}{\numberline {4.2}Physical Interface}{15}{section.4.2}
+\contentsline {chapter}{\numberline {5}Logging and Visualization of Simulation}{16}{chapter.5}
+\contentsline {section}{\numberline {5.1}Logging}{16}{section.5.1}
+\contentsline {section}{\numberline {5.2}Visualization}{16}{section.5.2}
+\contentsline {section}{\numberline {5.3}C++ example?}{16}{section.5.3}
+\contentsline {chapter}{\numberline {6}Use of Model in Autonomous Testing Environment (ROS)}{17}{chapter.6}
+\contentsline {chapter}{\numberline {7}Other Agents and their Behavior as Part of Simulated Environment}{18}{chapter.7}
+\contentsline {section}{\numberline {7.1}Possible Agents}{18}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Ships}{18}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.2}Boats}{18}{subsection.7.1.2}
+\contentsline {section}{\numberline {7.2}Pros and Cons of Agents Behavior}{18}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Reactivity?}{18}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}Predictability}{18}{subsection.7.2.2}
+\contentsline {subsection}{\numberline {7.2.3}Possibility of Repeating Scenario}{18}{subsection.7.2.3}
+\contentsline {chapter}{\numberline {8}Summary}{19}{chapter.8}
+\contentsline {section}{\numberline {8.1}Summary and Conclusions}{19}{section.8.1}
+\contentsline {section}{\numberline {8.2}Discussion}{19}{section.8.2}
+\contentsline {section}{\numberline {8.3}Recommendations for Further Work}{19}{section.8.3}
+\contentsline {chapter}{\numberline {A}Acronyms}{20}{appendix.A}
+\contentsline {chapter}{\numberline {B}Additional Information}{21}{appendix.B}
+\contentsline {section}{\numberline {B.1}Introduction}{21}{section.B.1}
+\contentsline {subsection}{\numberline {B.1.1}More Details}{21}{subsection.B.1.1}
+\contentsline {chapter}{Bibliography}{22}{subsection.B.1.1}

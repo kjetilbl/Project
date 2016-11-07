@@ -15,6 +15,13 @@ Johansen, T.~A., Fossen, T.~I., and Vik, B. (2005).
 {Kongsberg Seatex} (2016).
 \newblock {\em Seapath 130 Datasheet}.
 
+\bibitem[\protect\astroncite{{\O}degaard}{2016}]{even}
+{\O}degaard, E. (2016).
+\newblock Specification and first prototype of simulated dynamics of autonomous
+  usv.
+\newblock Master's thesis, Norwegian University of Science and Technology
+  (NTNU).
+
 \bibitem[\protect\astroncite{Perez et~al.}{2006}]{MSSoverview}
 Perez, T., Smogeli, {\O}., Fossen, T., and S{\o}rensen, A. (2006).
 \newblock An overview of the marine systems simulator (mss): A simulink toolbox

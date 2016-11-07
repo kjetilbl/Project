@@ -24,7 +24,7 @@
 \BOOKMARK [2][-]{subsection.3.2.3}{Simulating Data from LiDAR}{section.3.2}% 24
 \BOOKMARK [0][-]{chapter.4}{Interface between Simulator and Control System}{}% 25
 \BOOKMARK [1][-]{section.4.1}{Overview of the Simulation Setup}{chapter.4}% 26
-\BOOKMARK [2][-]{subsection.4.1.1}{Message Protocol}{section.4.1}% 27
+\BOOKMARK [2][-]{subsection.4.1.1}{Information Flow Between Software Modules}{section.4.1}% 27
 \BOOKMARK [1][-]{section.4.2}{Physical Interface}{chapter.4}% 28
 \BOOKMARK [0][-]{chapter.5}{Logging and Visualization of Simulation}{}% 29
 \BOOKMARK [1][-]{section.5.1}{Logging}{chapter.5}% 30
